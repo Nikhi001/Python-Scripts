@@ -1,3 +1,4 @@
+# Automation Script using OCR library
 Thank you for visiting my GitHub repository! 😊
 This project is focused on automating a common but time-consuming task using Python. If you're working on something similar, I hope this script helps speed things up for you.
 
